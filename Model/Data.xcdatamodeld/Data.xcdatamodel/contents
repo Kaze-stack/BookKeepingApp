@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="20G95" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="TotalCData" representedClassName="TotalCData" syncable="YES" codeGenerationType="class">
+        <attribute name="amount" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="comment" optional="YES" attributeType="String"/>
+        <attribute name="dateInfo" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="day" optional="YES" attributeType="String"/>
+        <attribute name="isIncome" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="yearmonth" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="TotalCData" positionX="-63" positionY="-18" width="128" height="133"/>
+    </elements>
+</model>
